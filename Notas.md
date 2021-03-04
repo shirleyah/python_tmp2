@@ -1,6 +1,6 @@
-#Notas del curso "Programación en Python 2021"
+# Notas del curso "Programación en Python 2021"
 
-
+## Apuntes importantes
 
 
 
