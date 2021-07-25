@@ -1,2 +1,3 @@
 holagcacgactactcgtcatcatcattcgc
 hola2
+Esta línea será para hacer referencia a una etiqueta.
