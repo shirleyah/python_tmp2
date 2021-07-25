@@ -17,7 +17,7 @@
 1. Item 1
 2. Item 2
 
-- Item 1
+- tags: usadas para hacer referencia a un punto en particular de un repositorio. 
 - Item 2
 
 
@@ -27,7 +27,6 @@
 ```python
 print ("¡Hola a todos!")
 ```
-
 
 
 
