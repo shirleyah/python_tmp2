@@ -1,5 +1,5 @@
 hola2
-Esta línea será para hacer referencia a una etiqueta.
-Otra línea para detalles de etiquetas por medio de id del commit.
-Esta es una línea distinta en la rama feature
+Esta línea será para hacer referencia a una etiqueta. Esta es mi modificación
+Otra línea para detalles de etiquetas por medio de id del commit. Esta es mi modificación-Shirley
+Esta es una línea distinta en la rama - shirley
 Esta es una nueva línea para hacer el PULL REQUEST
