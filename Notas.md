@@ -28,7 +28,9 @@
 print ("¡Hola a todos!")
 ```
 
-
+```python
+print ("¡Git es una maravilla!")
+```
 
 
 
